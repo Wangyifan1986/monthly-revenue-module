@@ -1,0 +1,95 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 100%;
+
+	.item {
+		width: 800px;
+		background-color: #fff;
+		margin-bottom: 10px;
+	}
+
+	.title {
+		height: 60px;
+	}
+	.stock-selection-com {
+		height: 55px;
+		width: 100%;
+		background-color: white;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin-bottom: 20px;
+		.stock-selection {
+			width: 350px;
+			margin: 10px;
+		}
+	}
+	.stock-info-com {
+		height: 50px;
+		display: flex;
+		align-items: center;
+		padding-left: 20px;
+		border-radius: 8px;
+	}
+	.revenue-chart-div {
+		height: 500px;
+	}
+	.revenue-table-div {
+		height: 300px;
+	}
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+
+.revenue-table-div .ant-card-head-title {
+	color: #fff;
+	background: #1677ff;
+	box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+	height: 32px;
+	padding: 4px 15px;
+	border-radius: 6px;
+	width: 100px;
+	flex: none;
+}
+.annual-dropdown-btn button {
+	color: #fff;
+	background: #1677ff;
+	box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+	height: 32px;
+	padding: 4px 15px;
+	border-radius: 6px;
+	width: 100px;
+	flex: none;
+}
+.revenue-card-title-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.revenue-card-title {
+	color: #fff;
+	background: #1677ff;
+	box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+	height: 32px;
+	padding: 4px 15px;
+	border-radius: 6px;
+	width: 100px;
+	flex: none;
+}
+
+.revenue-card-title-avatar button {
+	font-weight: 600;
+	font-size: 16px;
+	color: #fff;
+	background: #1677ff;
+	box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+	height: 32px;
+	padding: 4px 15px;
+	border-radius: 6px;
+	width: 100px;
+}
