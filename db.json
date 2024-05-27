@@ -1,0 +1,625 @@
+{
+	"StockSelData": [
+		{ "id": 0, "value": "台积电(2330)", "label": "台积电" },
+		{ "id": 1, "value": "特发服务(300917)", "label": "特发服务" },
+		{ "id": 2, "value": "雷曼光电(300162)", "label": "雷曼光电" },
+		{ "id": 3, "value": "ST农尚(300536)", "label": "ST农尚" },
+		{ "id": 4, "value": "我爱我家(000560)", "label": "我爱我家" },
+		{ "id": 5, "value": "惠绿生态(001267)", "label": "惠绿生态" }
+	],
+	"LineChartData": [
+		[
+			{
+				"id": 1,
+				"month": "201901",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 2,
+				"month": "201902",
+				"revenue": "140000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 3,
+				"month": "201903",
+				"revenue": "149000000",
+				"revenue_rate": "2"
+			},
+			{
+				"id": 4,
+				"month": "201904",
+				"revenue": "285000000",
+				"revenue_rate": "9"
+			},
+			{
+				"id": 5,
+				"month": "201905",
+				"revenue": "109000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 6,
+				"month": "201906",
+				"revenue": "173000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 7,
+				"month": "201907",
+				"revenue": "100000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 8,
+				"month": "201908",
+				"revenue": "120000000",
+				"revenue_rate": "6"
+			},
+			{
+				"id": 9,
+				"month": "201909",
+				"revenue": "190000000",
+				"revenue_rate": "9"
+			},
+			{
+				"id": 10,
+				"month": "201910",
+				"revenue": "160000000",
+				"revenue_rate": "3"
+			},
+			{
+				"id": 11,
+				"month": "201911",
+				"revenue": "170000000",
+				"revenue_rate": "2"
+			},
+			{
+				"id": 12,
+				"month": "201912",
+				"revenue": "120000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 13,
+				"month": "202001",
+				"revenue": "100000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 14,
+				"month": "202002",
+				"revenue": "109000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 15,
+				"month": "202003",
+				"revenue": "50000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 16,
+				"month": "202004",
+				"revenue": "139000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 17,
+				"month": "202005",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 18,
+				"month": "202006",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 19,
+				"month": "202007",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 20,
+				"month": "202008",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 21,
+				"month": "202009",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 22,
+				"month": "202010",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 23,
+				"month": "202011",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 24,
+				"month": "202012",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 25,
+				"month": "202101",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 26,
+				"month": "202102",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 27,
+				"month": "202103",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 28,
+				"month": "202104",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 29,
+				"month": "202105",
+				"revenue": "200000000",
+				"revenue_rate": "3"
+			},
+			{
+				"id": 30,
+				"month": "202106",
+				"revenue": "200000000",
+				"revenue_rate": "1"
+			},
+			{
+				"id": 31,
+				"month": "202107",
+				"revenue": "200000000",
+				"revenue_rate": "5"
+			},
+			{
+				"id": 32,
+				"month": "202108",
+				"revenue": "200000000",
+				"revenue_rate": "3"
+			},
+			{
+				"id": 33,
+				"month": "202109",
+				"revenue": "200000000",
+				"revenue_rate": "9"
+			},
+			{
+				"id": 34,
+				"month": "202110",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 35,
+				"month": "202111",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 36,
+				"month": "202112",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			}
+		],
+		[
+			{
+				"id": 1,
+				"month": "201901",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 2,
+				"month": "201902",
+				"revenue": "140000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 3,
+				"month": "201903",
+				"revenue": "149000000",
+				"revenue_rate": "2"
+			},
+			{
+				"id": 4,
+				"month": "201904",
+				"revenue": "285000000",
+				"revenue_rate": "9"
+			},
+			{
+				"id": 5,
+				"month": "201905",
+				"revenue": "109000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 6,
+				"month": "201906",
+				"revenue": "173000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 7,
+				"month": "201907",
+				"revenue": "100000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 8,
+				"month": "201908",
+				"revenue": "120000000",
+				"revenue_rate": "6"
+			},
+			{
+				"id": 9,
+				"month": "201909",
+				"revenue": "190000000",
+				"revenue_rate": "9"
+			},
+			{
+				"id": 10,
+				"month": "201910",
+				"revenue": "160000000",
+				"revenue_rate": "3"
+			},
+			{
+				"id": 11,
+				"month": "201911",
+				"revenue": "170000000",
+				"revenue_rate": "2"
+			},
+			{
+				"id": 12,
+				"month": "201912",
+				"revenue": "120000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 13,
+				"month": "202001",
+				"revenue": "100000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 14,
+				"month": "202002",
+				"revenue": "109000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 15,
+				"month": "202003",
+				"revenue": "50000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 16,
+				"month": "202004",
+				"revenue": "139000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 17,
+				"month": "202005",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 18,
+				"month": "202006",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 19,
+				"month": "202007",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 20,
+				"month": "202008",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 21,
+				"month": "202009",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 22,
+				"month": "202010",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 23,
+				"month": "202011",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 24,
+				"month": "202012",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 25,
+				"month": "202101",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 26,
+				"month": "202102",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 27,
+				"month": "202103",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 28,
+				"month": "202104",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 29,
+				"month": "202105",
+				"revenue": "200000000",
+				"revenue_rate": "3"
+			},
+			{
+				"id": 30,
+				"month": "202106",
+				"revenue": "200000000",
+				"revenue_rate": "1"
+			},
+			{
+				"id": 31,
+				"month": "202107",
+				"revenue": "200000000",
+				"revenue_rate": "5"
+			},
+			{
+				"id": 32,
+				"month": "202108",
+				"revenue": "200000000",
+				"revenue_rate": "3"
+			},
+			{
+				"id": 33,
+				"month": "202109",
+				"revenue": "200000000",
+				"revenue_rate": "9"
+			},
+			{
+				"id": 34,
+				"month": "202110",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 35,
+				"month": "202111",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 36,
+				"month": "202112",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 37,
+				"month": "202201",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 38,
+				"month": "202202",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 39,
+				"month": "202203",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 40,
+				"month": "202204",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 41,
+				"month": "202205",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 42,
+				"month": "202206",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 43,
+				"month": "202207",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 44,
+				"month": "202208",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 45,
+				"month": "202209",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 46,
+				"month": "202210",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 47,
+				"month": "202211",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 48,
+				"month": "202212",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 49,
+				"month": "202301",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 50,
+				"month": "202302",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 51,
+				"month": "202303",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 52,
+				"month": "202304",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 53,
+				"month": "202305",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 54,
+				"month": "202306",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 55,
+				"month": "202307",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 56,
+				"month": "202308",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 57,
+				"month": "202309",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 58,
+				"month": "202310",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 59,
+				"month": "202311",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			},
+			{
+				"id": 60,
+				"month": "202312",
+				"revenue": "200000000",
+				"revenue_rate": "13"
+			}
+		]
+	],
+	"TableData": [
+		{
+			"id": 1,
+			"month": "202407",
+			"revenue": "2342",
+			"revenue_rate": "20%"
+		},
+		{
+			"id": 2,
+			"month": "202408",
+			"revenue": "2342",
+			"revenue_rate": "20%"
+		},
+		{
+			"id": 3,
+			"month": "202409",
+			"revenue": "2342",
+			"revenue_rate": "20%"
+		},
+		{
+			"id": 4,
+			"month": "202410",
+			"revenue": "2342",
+			"revenue_rate": "20%"
+		},
+		{
+			"id": 5,
+			"month": "202411",
+			"revenue": "2342",
+			"revenue_rate": "20%"
+		},
+		{ "id": 6, "month": "202412", "revenue": "2342", "revenue_rate": "20%" }
+	]
+}
